@@ -32,7 +32,7 @@ jobs:
 
 ## Example
 
-## Docker Metadata
+### Docker Metadata
 
 The summary of [docker/metadata-action](https://github.com/docker/metadata-action) action.
 
